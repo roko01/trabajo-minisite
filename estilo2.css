@@ -67,7 +67,7 @@ max-width:1300px;
 padding:0;
 text-align: justify;
 }
-section#principal, aside{
+section#principal{
 background:#AAE8F2;
 display: inline-block;
 margin:0.25em auto;
@@ -97,10 +97,7 @@ footer
 background:#037BF4;
 border-radius:0.5em;
 margin: 0.5em auto;
-max-width:1300px;
-padding:0.25em;
 text-align: left;
-overflow: hidden;
 }
 article #parrafocolor
 {
@@ -126,9 +123,20 @@ border-radius:5px solid black;
 color:#AAE8F2;
 background-color:#AAE8F2;
 }
+#publicidad2
+{
+background:#AAE8F2;
+float: right;
+margin: -2940px 0 0 0;
+}
         
 
 
+#publicidad1
+{
+background:#AAE8F2;
+float: right;
 
+}
 
 
